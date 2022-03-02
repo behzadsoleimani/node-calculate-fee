@@ -1,4 +1,4 @@
-const { calculateFee} = require('./index');
+const { calculateFee} = require('./src/index');
 const fs = require("fs");
 
 
